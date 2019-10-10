@@ -1,3 +1,5 @@
+* 代码解读：[图卷积网络GCN代码分析（Tensorflow版）](https://blog.csdn.net/yyl424525/article/details/100634211)
+---
 # Graph Convolutional Networks
 
 This is a TensorFlow implementation of Graph Convolutional Networks for the task of (semi-supervised) classification of nodes in a graph, as described in our paper:
